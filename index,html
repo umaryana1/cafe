@@ -1,0 +1,106 @@
+<html>
+<style>
+body {
+    font-family: sans-serif;
+    background-color: #f0fffd;
+    padding: 30PX;
+    margin: 0;
+    padding-top: 0px;
+   
+}
+img {
+        border-radius: 100px;
+        margin: 20px;
+    }
+h1{
+    color:#8a8a8a;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 50px;
+}
+main p{
+    background-color: #b6d2f1;
+    text-align: center;
+    padding: 15px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+nav a, p a{
+    text-align: center;
+    font-size: 20px;
+    color: #8a8a8a;
+    border: 3px solid #8a8a8a;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 100px;
+    text-decoration: none;
+    
+}
+b{
+    font-size: 30px;
+    color: #8a8a8a;
+}
+#img1, #img2, #img3, #img4, #up{
+    background-color: transparent;
+}
+footer{
+    background-color: #b6d2f1;
+    color: rgb(255, 255, 255);
+    padding: 40px;
+}
+
+</style>
+    <body>
+        <header>
+             <nav>
+            <img id ="logo" src="https://buduysvoe.com/sites/default/files/styles/780x585/public/field/image/vidkryvayemo_vlasne_kafe-morozyvo.jpg?itok=IbvW2ZLl" height="70px"/>
+            <b> Ice cafe </b>
+                
+                <a href="#menu">Наші роботи</a>
+                <a href="#contacts">Як придбати</a>
+                
+             
+            </nav>
+        </header>
+        <main>
+            <br>
+       
+            <h1><i> Ice cafe</i></h1>
+            <p id="img1"><img src="https://korali.info/uploads/images/default/morozivo.jpg" width="850px"/></p> 
+            <h2 id="menu">Наші роботи</h2>
+            <p>
+                <p><img src="https://images.fidhouse.com/fidelitynews/wp-content/uploads/sites/6/2016/02/1456238542_f3334e18815fbf6eef40d8df1d2ff1ddb05209c3-991810991.jpg?w=580" width="200px" height="150px"/><br/>Кекси</p>
+                <p><img src="https://gwaramedia.com/wp-content/uploads/2020/06/s-1024x760.jpeg" width="200px" height="150px"/><br/>Пончики</p>
+                <p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYmZht_Z3hXidU6wiQWnZIbDOcsbJutWQZ2w&usqp=CAU" width="200px" height="150x"/><br/>Десерти</p>
+                <p><img src="https://zakaztortov.kiev.ua/wp-content/uploads/2021/10/243787118_2943470075917647_2723591560744931541_n-1.jpg" width="150px" height="170px"/><br/>Торти</p>
+            </p>
+            <h2 id="discount">Сезонна пропозиція</h2>
+            <p>З 5 лютого до 5 березня діє пропозиція: знижка на всю продукцію 50%.</p>
+            <p>
+                <i>Поспішайте купити солодощі вигідно!</i>
+            </p>
+              <p id="img2"><img src="https://flowersdelux.com.ua/wp-content/uploads/2017/06/4db5f5ad61d7f37d9523e04c10d044e7.jpg"  width="600px"/></p>
+            <h2 id="contacts">Як придбати?</h2>
+            
+            <p>Ви можете зробити замовлення за телефоном або придбати товари в кафе.</p>
+            <p>У магазині на вас чекає детальна розповідь про нашу продукцію.</p>
+            <p>При відвідуванні магазину можна замовити доставку додому/в офіс.</p>
+            <p>Ви також можете по телефону зробити замовлення для резервування товарів у кафе.</p>
+              <p id="img3"><img src="https://i2.wp.com/dompovarov.ru/wp-content/uploads/2018/05/kak-ukrasit-tort-shokoladom-6-1.jpg" width="600px"/></p>
+            
+            <h2 id="about_us">Про компанію</h2>
+            <p>Наше кафе  вілкрилось, у 2011 році. Тоді ми пропонували лише морозиво.</p>
+            <p>У 2015 році у нас з'явився сайт, а асортимент поповнився новими видами товарів..</p>
+              <p id="img4"><img src="https://ideas-center.com.ua/wp-content/uploads/1f116db6e55774a834616bd21922b532.jpg" width="600px"/><br/></p>
+            <p id="up"><a href="#logo">Вгору</a></p>
+        </main>
+        <footer>
+            <p id="contacts"><b><i>Контакти</i></b></p>
+            <p>Адреса: м. Львів, просп. Експериментальний, 21</p>
+
+    
+            <p>Тел.: 2074-3452</p>
+            <h5> сайт створила Лозинська Мар'яна</h5>
+        </footer>
+    </body>
+</html>
